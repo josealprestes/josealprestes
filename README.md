@@ -1,11 +1,11 @@
 # José Augusto de Lima Prestes
 
-M.Sc. candidate at FEEC-Unicamp researching Multi-Agent Reinforcement Learning (MARL), shared memory for cooperative humanoid navigation (Isaac Lab/ORBIT), and responsible AI governance.
+M.Sc. candidate at FEEC-Unicamp researching Multi-Agent Reinforcement Learning (MARL), shared memory for cooperative humanoid navigation, and responsible AI governance.
 
 ## Research focus
 - Multi-Agent Reinforcement Learning (MARL)
 - Shared memory architectures for cooperative navigation
-- Humanoid robotics (Isaac Lab/ORBIT)
+- Humanoid robotics
 - AI governance, ethics, and operational traceability
 - LLM/agent systems for institutional use
 
